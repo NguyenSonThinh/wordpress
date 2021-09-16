@@ -1,0 +1,1030 @@
+/* Tablet Screen */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.top-logo {
+	margin: 15px 0 0;
+}
+.breadcrumb-content h2 {
+	font-size: 35px;
+}
+.breadcrumb-menu li a {
+	font-size: 16px;
+}
+.header.style2 .topbar-content {
+	text-align: left;
+	padding: 8px 0;
+}
+.header.style2 .top-logo {
+	padding: 22px 0;
+}
+.header.style2 .top-logo::after {
+	border-top: 95px solid transparent;
+}
+.header.style2 .top-logo {
+	height: 95px;
+}
+.header.style2 .head-button{
+	display:none;
+}
+.header.style2 .single-contact {
+	padding-left: 0;
+}
+.header.style2 .single-contact {
+	padding-left: 0;
+	margin-right: 5px;
+}
+.header.style2 .search-top{
+	display:none;
+}
+.header.style2 .topbar-right {
+	margin-top: 7px;
+}
+.header.style2 .single-contact {
+	margin-right: 15px;
+}
+.header.style2 .single-contact p {
+	font-size: 14px;
+}
+.header.style2 .single-contact i {
+	position: relative;
+	display: inline-block;
+}
+.contact-form {
+	padding: 0;
+}
+.breadcrumbs {
+	padding: 80px 0px;
+}
+.topbar-content {
+	text-align: center;
+}
+.topbar-right {
+	display: none;
+}
+.header.style2 .topbar-right{
+	display:block;
+}
+.menu-right{
+	display:none;
+}
+.main-menu {
+	margin: 0;
+	float: left;
+}
+.header.sticky .main-menu li a {
+	padding: 25px 5px;
+}
+.header.style2 .main-menu .nav-menu li .sub-menu {
+	top: 56px;
+}
+.main-menu .nav-menu li a {
+	padding: 28px 4px;
+}
+.hero-area, .single-slider {
+	height: 630px;
+}
+.hero-content .hero-intro span {
+	padding: 16px 18px;
+}
+.hero-content .hero-title {
+	font-size: 50px;
+}
+.hero-content {
+	margin: 132px 0 0;
+}
+.about-content h2 {
+	font-size: 24px;
+	line-height: 38px;
+}
+.section-title h2 {
+	font-size: 34px;
+}
+.section-title span {
+	font-size: 22px;
+}
+.service-area.latest .single-service-content {
+	padding: 20px;
+}
+.service-area.latest .single-service-content h3 {
+	font-size: 19px;
+}
+.service-area.latest .service-icon {
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	font-size: 25px;
+	margin-top: -30px;
+	margin-left: -30px;
+}
+.department-s-title .bg-title {
+	font-size: 70px;
+}
+.mission-content h2 {
+	font-size: 30px;
+}
+.appoinment-title h3 {
+	font-size: 22px;
+}
+.our-specialist h2 {
+	font-size: 28px;
+}
+.our-specialist ul li {
+	line-height: 28px;
+}
+.newsletter-content p {
+	padding: 0 0px;
+	font-size: 15px;
+}
+.our-specialist {
+	padding: 0;
+}
+.department-tab-menu .menu-tab a {
+	width: auto;
+	padding: 25px 20px;
+}
+.department-tab-menu .menu-tab .d-icon {
+	font-size: 22px;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	top: -25px;
+	margin-left: ;
+	margin-left: -25px;
+}
+.appoinment-area.inner::after {
+	width: 100%;
+}
+.hero-style2 .hero-content {
+	margin: 163px 0px 0;
+}
+.appoinment-hero .appoinment-title h3 {
+	font-size: 20px;
+}
+.appoinment-hero .appoinment-title p {
+	font-size: 14px;
+}
+.funfact-area::before{
+	width:100%;
+	opacity:0.9;
+}
+.single-pricing {
+	padding: 20px;
+}
+.p-price .amount {
+	font-size: 32px;
+}
+.single-n-form {
+	width: 46% !important;
+	margin-top: 10px;
+}
+.newsletter-inner .newsletter-content {
+	padding: 0 50px;
+}
+.blog-slider .single-blog h3 {
+	font-size: 16px;
+	line-height: 25px;
+}
+.blog-area:hover .blog-slider.owl-carousel .owl-nav .owl-prev,
+.blog-slider.owl-carousel:hover .owl-prev {
+	left: -35px;
+}
+.blog-area:hover .blog-slider.owl-carousel .owl-nav .owl-next,
+.blog-slider.owl-carousel:hover .owl-next {
+	right: -35px;
+}
+.c-left-content,.c-right-content{
+	text-align:center;
+}
+.blog-s-title h1,.service-d-description h1 {
+	font-size: 28px;
+}
+.contact-details {
+	padding: 30px;
+}
+.contact-details-title h3 {
+	font-size: 25px;
+}
+.contact-details {
+	padding: 20px;
+}
+.single-c-content {
+	margin-left: 56px;
+}
+.contact-form .form-group textarea {
+	height: 142px;
+}
+.header.style2 .topbar-content {
+	padding-right: 0px;
+}
+.header.style2 .main-menu .nav-menu li a {
+	padding: 8px 8px;
+	font-size: 14px;
+}
+.header.style2 .social-links {
+	float: none;
+	padding: 0;
+	margin: 0;
+	border: none;
+	text-align: center;
+}
+.hero-style2 .hero-content .hero-title {
+	font-size: 30px;
+}
+.hero-style2::before, .hero-style2::after {
+	width: 65%;
+	left: -100px;
+}
+.hero-style2 .button .theme-btn {
+	padding: 12px 22px;
+}
+.hero-content .top-intro {
+	font-size: 20px;
+}
+.hero-style2 .hero-content .hero-title {
+	font-size: 31px;
+	margin-top: 10px;
+	line-height: 40px;
+}
+.single-features-content h3 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	line-height: 20px;
+}
+.single-features {
+	padding: 25px 20px;
+}
+.single-features-content p {
+	font-size: 14px;
+}
+.single-features.call-us .feature-top h4 {
+	font-size: 20px;
+}
+.single-features.call-us .feature-top h3 {
+	font-size: 30px;
+}
+.single-features-content h3 a {
+	font-size: 16px;
+}
+.funfact-area {
+	padding: 100px 0;
+}
+.hero-style2 {
+	height: 690px;
+}
+.appoinment-hero {
+	margin-top: 65px;
+	margin: 77px 0 0;
+}
+.appoinment-hero .appoinment-title {
+	padding: 15px;
+}
+.features-icon i {
+	width: 70px;
+	height: 70px;
+	line-height: 55px;
+	font-size: 25px;
+}
+.form-group.nc-select {
+	margin-bottom: 64px;
+}
+.eror-content h2 {
+	font-size: 130px;
+}
+#myMap {
+	height: 350px;
+}
+.roland-options {
+	bottom: 35%;
+}
+}
+/* Mobile Screen */
+@media only screen and (max-width:767px) {
+.roland-mobile-menu{
+	display:block;
+}
+.roland-mobile-menu .menu-inner ul li ul li {
+  border: none;
+}
+.roland-mobile-menu .menu-inner ul li ul {
+	border-left: 1px solid #ccc;
+	margin-left: 22px;
+}
+.roland-mobile-menu{
+	display:block;
+}
+.roland-mobile-menu .menu-click {
+	font-size: 30px;
+	position: absolute;
+	right: 15px;
+	top: 2px;
+}
+.roland-mobile-menu .menu-click .ex-btn-toggle {
+	color: #2B96CC;
+	z-index: 3333;
+	position: relative;
+	font-size: 16px;
+	background: transparent;
+	padding: 8px 15px;
+}
+.roland-mobile-menu .menu-click .ex-btn-toggle:hover,
+.roland-mobile-menu .menu-click .ex-btn-toggle:focus{
+	border-color:transparent;
+	background:#2B96CC;
+	color:#fff;
+}
+.roland-mobile-menu .menu-click .ex-btn-toggle span{
+	padding-left:5px;
+}
+.roland-mobile-menu .menu-click .ex-btn-toggle.active {
+	background: #2B96CC;
+	color: #fff;
+	border-color: transparent;
+}
+.roland-mobile-menu .menu-inner {
+	position: relative;
+	padding: 0;
+	padding-top: 22px;
+	display: none;
+	padding-bottom: 20px;
+}
+.roland-mobile-menu .menu-inner.active{
+	display:block;
+}
+.roland-mobile-menu .menu-inner ul li {
+	display: block;
+	float: none;
+	width: 100%;
+	border-bottom: 1px solid #cccccc82;
+}
+.roland-mobile-menu .menu-inner ul li:last-child{
+	border:none;
+}
+.roland-mobile-menu .menu-inner ul li a {
+	padding: 0;
+	display: block;
+	width: 100%;
+	padding: 10px 10px;
+	color: #333;
+}
+.roland-mobile-menu .menu-inner ul li a:hover,
+.roland-mobile-menu .menu-inner ul li.active-focus a{
+	color:#2B96CC;
+}
+.roland-mobile-menu .menu-inner ul li ul li a{
+		color:#333 !important;
+}
+.roland-mobile-menu .menu-inner ul li ul li:hover a,
+.roland-mobile-menu .menu-inner ul li ul li.active-focus a{
+		color:#2B96CC !important;
+}
+.roland-mobile-menu .menu-inner ul li ul li ul li a{
+		color:#333 !important;
+}
+.roland-mobile-menu .menu-inner ul li ul li ul li:hover a,
+.roland-mobile-menu .menu-inner ul li ul li ul li.active-focus a{
+		color:#2B96CC !important;
+}
+.roland-mobile-menu .menu-inner ul {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+.roland-mobile-menu .main-navigation ul li ul {
+  position: relative;
+  opacity: 1;
+  visibility: visible;
+  margin-left: 20px;
+}
+
+.section-title {
+	text-align: center;
+}
+.about-us,.our-mission-area{
+	padding: 50px 0px 80px;
+}
+.service-area,.appoinment-area,
+.doctors-area,.funfact-area,
+.pricing-area,.client-area,.login-register-box,.eror-page-area{
+	padding:80px 0;
+}
+.service-area.archive,.service-details-area,.doctors-area.archive,.doctor-details-area,.blog-archive{
+	padding:50px 0 80px;
+}
+.testimonial-area,.department-area{
+	padding-bottom:80px;
+}
+.blog-area{
+	padding-top:0px;
+}
+.topbar {
+	padding: 10px 0 10px;
+}
+.section-title h2 {
+	font-size: 25px;
+	line-height: 30px;
+	padding: 0;
+	margin-bottom: 20px;
+}
+.title-icon-main {
+	position: relative;
+	margin-top: 0;
+	left: 0;
+	text-align: center;
+	display: inline-block;
+}
+.section-title.text-center .waves-block {
+	position: relative;
+	left: 0;
+	top: 0;
+	margin-left: -27px;
+}
+.section-title span {
+	font-size: 20px;
+	line-height: 22px;
+}
+.waves-block {
+	left: -26px;
+}
+.waves-block .waves {
+	left: 0;
+}	
+.top-logo {
+	margin: 0;
+}
+.section-title .bg-title {
+	font-size: 35px;
+}
+.main-menu-top{
+	display:none;
+}
+.middle-header {
+	padding: 10px 0;
+}
+.mobile-nav {
+	position: relative;
+	margin-top: -50px;
+	display: block;
+}
+.mobile-nav .slicknav_menu{
+	background:none;
+}
+.slicknav_nav li a{
+	margin: 0;
+	color: #333;
+	background: transparent;
+	overflow: hidden;
+}
+.slicknav_nav li a i{
+	display:none;
+}
+.slicknav_nav li a:hover{
+	color:#2B96CC;
+	background:transparent;
+}
+.slicknav_nav li:hover{
+	background:transparent;
+}
+.slicknav_nav li .dropdown li:hover{
+	background:transparent;
+}
+.slicknav_nav li .dropdown li a{
+	color:#555;
+	background:transparent;
+}
+.slicknav_nav li .dropdown li a:hover{
+	color:#2B96CC;
+	background:transparent;
+}
+.slicknav_nav li .slicknav_item{
+	background:transparent;
+}
+.slicknav_nav .slicknav_row, .slicknav_nav a {
+	padding: 0;
+	margin: 0;
+	padding: 6px 0;
+	font-weight: 500;
+}
+
+.slicknav_nav li:last-child a{
+	padding-bottom:0px;
+}
+.slicknav_menu .slicknav_icon-bar {
+	background-color: #2B96CC;
+	box-shadow: none;
+	text-shadow: none;
+}
+.slicknav_nav .slicknav_arrow{
+	color:#666;
+}
+.slicknav_menu .slicknav_icon-bar {
+	display: block;
+	width: 21px;
+	height: 2px;
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 0 1px 0 rgba(0,0,0,.25);
+	-moz-box-shadow: 0 1px 0 rgba(0,0,0,.25);
+	box-shadow: 0 1px 0 rgba(0,0,0,.25);
+}
+.slicknav_menu .slicknav_icon {
+	margin-top: 4px;
+}
+.slicknav_nav li .slicknav_item:hover{
+	background:transparent;;
+}
+.slicknav_menu .slicknav_icon-bar{
+	box-shadow:none;
+}
+.slicknav_menu .slicknav_icon-bar {
+	background: #2E2751 !important;
+}
+.skill-image{
+	display:none;
+}
+.slicknav_nav li {
+	border-bottom: 1px solid #ebebeb;
+	line-height: 30px;
+}
+.slicknav_nav li:last-child{
+	border:none;
+}
+.slicknav_menu{
+	display:block;
+}
+.header.style2 .topbar-content {
+	text-align: left;
+	padding: 8px 0;
+}
+.header.style2 .top-logo {
+	padding: 30px 0;
+}
+.header.style2 .top-logo::after {
+	border-top: 77px solid transparent;
+}
+.header.style2 .top-logo {
+	width: auto;
+	padding: 0;
+	position: relative;
+	top: auto;
+	height: initial;
+	background: transparent;
+}
+.header.style2 .head-button{
+	display:none;
+}
+.header.style2 .single-contact {
+	padding-left: 0;
+}
+.header.style2 .single-contact {
+	padding-left: 0;
+	margin-right: 5px;
+}
+.header.style2 .search-top{
+	display:none;
+}
+.header.style2 .topbar-right {
+	margin-top: 32px;
+}
+.header.style2 .single-contact {
+	margin-right: 15px;
+}
+.header.style2 .single-contact p {
+	font-size: 14px;
+}
+.header.style2 .single-contact i {
+	position: relative;
+	display: inline-block;
+}
+.breadcrumbs {
+	padding: 60px 0px;
+}
+.breadcrumb-menu li a {
+	font-size: 16px;
+}
+.header.sticky .middle-header{
+	display:none;
+}
+.topbar-content {
+	text-align: center;
+	padding: 0;
+}
+.single-contact {
+	margin:0 0 5px;
+}
+.single-contact:last-child{
+	margin:0;
+}
+.single-contact h4 {
+	font-size: 14px;
+	display:none;
+}
+.topbar-content .single-contact i {
+	border-radius: 100%;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	top: 15px;
+	font-size: 14px;
+}
+.topbar-right {
+	float: none;
+	text-align: center;
+	display:none;
+}
+.menu-right{
+	display:none;
+}
+.main-menu {
+	margin: 0;
+	float: left;
+}
+.main-menu .nav-menu li a {
+	padding: 28px 4px;
+}
+.hero-area, .single-slider {
+	height: 450px;
+}
+.hero-content .hero-intro span {
+	font-size: 14px;
+	padding: 15px 18px;
+}
+.hero-content .hero-title {
+	font-size: 30px;
+}
+.hero-content {
+	margin: 73px 0;
+}
+.hero-content p {
+	font-size: 15px;
+	padding: 0;
+}
+.about-content {
+	padding: 0;
+}
+.single-department a {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 25px;
+}
+.about-content h2 {
+	font-size: 24px;
+	line-height: 38px;
+}
+.service-area.latest .single-service-content {
+	padding: 20px;
+}
+.service-area.latest .single-service-content h3 {
+	font-size: 19px;
+}
+.service-area.latest .service-icon {
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	font-size: 25px;
+	margin-top: -30px;
+	margin-left: -30px;
+}
+.department-s-title .bg-title {
+	font-size: 35px;
+}
+.header.style2 .middle-header{
+	display:none;
+}
+.header.style2 .mobile-nav {
+	
+}
+.header.style2 .top-logo::before, .header.style2 .top-logo::after{
+	display:none;
+}
+.mission-content h2 {
+	font-size: 22px;
+	line-height: 38px;
+}
+.appoinment-title h3 {
+	font-size: 22px;
+}
+.our-specialist h2 {
+	font-size: 28px;
+}
+.our-specialist ul li {
+	line-height: 28px;
+}
+.newsletter-content p {
+	padding: 0 0px;
+	font-size: 15px;
+}
+.appoinment-inner {
+	padding: 25px;
+}
+.doctors-slider .owl-controls{
+	margin-top: 30px;
+}
+.doctors-slider .owl-controls .owl-nav {
+	position: relative;
+	right: 0;
+	bottom: 0;
+}
+.our-specialist {
+	padding: 0;
+}
+.department-tab-menu .menu-tab .d-icon {
+
+}
+.appoinment-area.inner::after {
+	width: 100%;
+}
+.funfact-area::before{
+	width:100%;
+	opacity:0.9;
+}
+.single-pricing {
+	padding: 20px;
+}
+.p-price .amount {
+	font-size: 32px;
+}
+.single-n-form {
+	width: 100% !important;
+	margin-top: 10px;
+}
+.n-email-submit {
+	padding: 0;
+	margin-top: 20px;
+}
+.newsletter-inner .newsletter-content {
+	padding: 0;
+}
+.newsletter-content h2 {
+	font-size: 25px;
+}
+.department-inner-content h4 {
+	font-size: 22px;
+}
+.blog-slider .single-blog h3 {
+	font-size: 16px;
+	line-height: 25px;
+}
+.blog-area:hover .blog-slider.owl-carousel .owl-nav .owl-prev,
+.blog-slider.owl-carousel:hover .owl-prev {
+	left: -10px;
+}
+.blog-area:hover .blog-slider.owl-carousel .owl-nav .owl-next,
+.blog-slider.owl-carousel:hover .owl-next {
+	right: -10px;
+}
+.single-client {
+	padding: 25px 10px;
+}
+.c-left-content,.c-right-content{
+	text-align:center;
+}
+.client-slider .owl-controls .owl-nav {
+	position: relative;
+	top: 0;
+	right: ;
+	margin-top: 15px;
+}
+.blog-s-title h1, .service-d-description h1 {
+	font-size: 25px;
+}
+.contact-details {
+	padding: 30px;
+}
+.contact-details-title h3 {
+	font-size: 25px;
+}
+.contact-details {
+	padding: 20px;
+}
+.single-c-content {
+	margin-left: 56px;
+}
+.contact-form .form-group textarea {
+	height: 142px;
+}
+.header.style2 .topbar-content {
+	padding-right: 0px;
+	display: none;
+}
+.header.style2 .main-menu .nav-menu li a {
+	padding: 25px 5px;
+}
+.header.style2 .social-links {
+	float: none;
+	padding: 0;
+	margin: 0;
+	border: none;
+	text-align: center;
+}
+.hero-style2 .hero-content .hero-title {
+	font-size: 30px;
+}
+.hero-style2::before, .hero-style2::after {
+	width: 65%;
+	left: -100px;
+	width: 100%;
+	left: 0;
+	transform: none;
+	width: 100%;
+}
+.hero-style2 .button .theme-btn {
+	padding: 12px 10px;
+	margin-right: 10px;
+}
+.hero-content .top-intro {
+	font-size: 18px;
+}
+.hero-style2 .hero-content .hero-title {
+	font-size: 26px;
+	margin-top: 10px;
+	line-height: 35px;
+}
+.department-tab-menu .menu-tab span {
+	display: none;
+}
+.department-tab-menu .menu-tab .nav-item {
+	width: 32%;
+}
+.contact-area {
+	padding: 50px 0px 80px;
+}
+.contact-form {
+	padding: 0;
+}
+.department-tab-menu .nav-item .d-icon {
+	box-shadow: 0px 0px 15px #00000036;
+	position: relative;
+	top: 0;
+	margin: 0 !important;
+	left: 0;
+	font-size: 22px;
+}
+.department-tab-menu {
+	padding: 10px;
+}
+.department-tab-menu .menu-tab a {
+	width: auto;
+	padding: 10px 12px;
+}
+.department-tab-menu{
+	padding-top:0px;
+}
+.department-tab-menu .menu-tab .nav-item {
+	margin-top: 10px;
+}
+.single-features-content h3 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	line-height: 20px;
+}
+.single-features {
+	padding: 25px 20px;
+}
+.single-features-content p {
+	font-size: 14px;
+}
+.single-features.call-us .feature-top h4 {
+	font-size: 20px;
+}
+.single-features.call-us .feature-top h3 {
+	font-size: 30px;
+}
+.single-features-content h3 a {
+	font-size: 16px;
+}
+.features-area .features-innner-top {
+	top: 0;
+	margin: 0;
+	padding: 50px 0 0px;
+}
+.single-features {
+	margin-top: 30px;
+}
+.fun-title h2 {
+	font-size: 26px;
+}
+.fun-title h2 span {
+	font-size: 22px;
+	line-height: 28px;
+}
+.client-image{
+	margin:0;
+}
+.testimonial-b-content {
+	display: block;
+	margin-top: 20px;
+}
+.testimonial-slider {
+	padding: 20px;
+}
+.newsletter-inner {
+	padding: 30px;
+}
+.client-title {
+	margin-top: 10px;
+}
+.header.style2 .topbar {
+	padding: 10px 0;
+}
+.department-banner {
+	padding: 80px 0;
+}
+.hero-style2 {
+	height: 450px;
+}
+.appoinment-hero {
+	margin-top: 65px;
+}
+.appoinment-hero .appoinment-title {
+	padding: 15px;
+}
+.features-icon i {
+	width: 70px;
+	height: 70px;
+	line-height: 55px;
+	font-size: 25px;
+}
+.blog-welcome {
+	position: relative;
+	width: 100%;
+	z-index: 333;
+	overflow: i;
+	width: 100%;
+	height: 380px;
+	margin-bottom: 50px;
+}
+.faq-area .panel .faq-title a,.faq-area .panel .faq-title a.collapsed {
+	text-decoration: none;
+	border-color: transparent;
+	font-size: 15px;
+	padding: 5px 22px;
+}
+.faq-area {
+	padding: 65px 0 80px;
+}
+.faq-area .faq-bottom h4 {
+	font-size: 20px;
+}
+.blog-title.text-center {
+	top: 0;
+	padding: 67px 20px;
+}
+.breadcrumb-content h2 {
+	font-size: 30px;
+}
+.breadcrumb-content p {
+	font-size: 15px;
+}
+.login-register-box .box-inner {
+	padding: 25px;
+}
+.login-register-box .box-head h2 {
+	font-size: 25px;
+}
+.account-button {
+	margin-top: 20px;
+}
+.eror-content h2 {
+	font-size: 90px;
+}
+.eror-content h3 {
+	font-size: 22px;
+}
+.eror-content-btn .theme-btn {
+	border-radius: 50px;
+	font-size: 14px;
+	padding: 10px 20px;
+}
+.slicknav_btn {
+	background: #2797CD;
+}
+.slicknav_menu .slicknav_menutxt {
+	text-shadow: none;
+	text-transform: capitalize;
+	font-weight: 700;
+}
+.slicknav_menu .slicknav_icon-bar {
+	background: #fff !important;
+}
+.single-top-features {
+	height: auto;
+	min-height: auto;
+	max-height: initial;
+}
+.form-group.nc-select {
+	margin-bottom: 64px;
+}
+#myMap {
+	height: 250px;
+}
+.roland-options {
+	bottom: 45%;
+}
+.hero-style2 .hero-content {
+	margin: 69px 0 0;
+}
+.appoinment-hero{
+	display:none;
+}
+}
