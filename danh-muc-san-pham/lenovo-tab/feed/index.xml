@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lenovo Tab &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/lenovo-tab/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:45:01 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Lenovo Tab P11 Pro</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/lenovo-tab-p11-pro/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/lenovo-tab-p11-pro/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:45:00 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=160</guid>
+
+					<description><![CDATA[Xem phim, giải trí tuyệt đỉnh &#8211; Màn hình OLED 11.5 inch sắc nét, bộ 4 loa cao cấp Chơi game đã tay, hiệu năng vượt trội &#8211; Snapdragon 730G 8 nhân, 4GB RAM Chụp ảnh chuyên nghiệp &#8211; Camera kép 13MP hỗ trợ nhiều chế độ thông minh Xài cả ngày không lo hết [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="box-outstanding-features">
+<div class="box-content">
+<ul>
+<li>Xem phim, giải trí tuyệt đỉnh &#8211; Màn hình OLED 11.5 inch sắc nét, bộ 4 loa cao cấp</li>
+<li>Chơi game đã tay, hiệu năng vượt trội &#8211; Snapdragon 730G 8 nhân, 4GB RAM</li>
+<li>Chụp ảnh chuyên nghiệp &#8211; Camera kép 13MP hỗ trợ nhiều chế độ thông minh</li>
+<li>Xài cả ngày không lo hết pin &#8211; Pin lớn 8600mAh, sạc nhanh 20W</li>
+</ul>
+</div>
+</div>
+<div class="blog-content">
+<h2 align="center"><strong>Máy tính bảng Lenovo Tab P11 Pro &#8211; Màn hình ấn tượng trong phân khúc</strong></h2>
+<p>Lenovo không chỉ nổi tiếng với những chiếc laptop cực khủng mà chúng còn mang đến cho người dùng những mẫu máy tính bảng ấn tượng. Nếu bạn đang tìm kiếm một chiếc máy tính bảng đa năng, màn hình lớn và vô cùng sắc nét thì đừng bỏ qua chiếc tablet<strong> Lenovo Tab P11 Pro </strong>vừa được ra mắt.</p>
+<h3><strong>Thiết kế cao cấp, màn hình </strong><strong>sắc nét</strong></h3>
+<p>Tab P11 Pro được Lenovo thiết kế cao cấp với khung viền được làm bằng chất liệu hợp kim nhôm, trọng lượng chỉ 485 g và siêu mỏng chỉ 5.8 mm mang lại sự thuận tiện trong quá trình di chuyển và dễ dàng hơn trong việc cầm nắm.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/lenovo-tab-p11-pro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

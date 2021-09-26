@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Vsmart &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/vsmart/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 10:50:13 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Vsmart Joy 4</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/vsmart-joy-4/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/vsmart-joy-4/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 15:57:17 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=104</guid>
+
+					<description><![CDATA[Màn hình lớn, siêu nét trong phân khúc &#8211; Kích thước 6.53 inch, độ phân giải FullHD+ Đồ họa mượt mà, chiến game bất tận &#8211; Vi xử lý Snapdragon 665AIE xung nhịp 2 0GHz Giải trí ngày dài, sạc nhanh chớp mắt &#8211; Pin khủng 5000mAh, sạc nhanh QC 3.0 18W Bắt trọn niềm [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="box-outstanding-features">
+<div class="box-content">
+<ul>
+<li>Màn hình lớn, siêu nét trong phân khúc &#8211; Kích thước 6.53 inch, độ phân giải FullHD+</li>
+<li>Đồ họa mượt mà, chiến game bất tận &#8211; Vi xử lý Snapdragon 665AIE xung nhịp 2 0GHz</li>
+<li>Giải trí ngày dài, sạc nhanh chớp mắt &#8211; Pin khủng 5000mAh, sạc nhanh QC 3.0 18W</li>
+<li>Bắt trọn niềm vui &#8211; Bộ 4 camera AI mạnh mẽ, nhiều tính năng sáng tạo</li>
+</ul>
+</div>
+</div>
+<div class="blog-content">
+<h2><strong>Điện thoại Vsmart Joy 4 &#8211; Hiệu năng vượt trội trong tầm giá</strong></h2>
+<p>Vsmart là một thương hiệu sản xuất điện thoại hàng đầu tại Việt Nam với rất nhiều sản phẩm phủ khắp các phân khúc khác nhau. Và chiếc <strong>Vsmart Joy 4</strong> là một sản phẩm khẳng định lại một lần nữa tên tuổi của Vsmart trong thị trường sản xuất smartphone. Với những tính năng hiện đại kèm hiệu năng cao cấp, đây sẽ là một chiếc điện thoại đáng được mua nhất vào thời điểm hiện tại so với các đối thủ cùng tầm giá.</p>
+<p>&gt;&gt;&gt; Ngoài ra, bạn có thể tham khảo thêm thông tin <a href="https://cellphones.com.vn/vsmart-joy-5.html" target="_blank" rel="noopener">điện thoại Vsmart Joy 5</a> sắp được ra mắt trong năm 2021.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/vsmart-joy-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

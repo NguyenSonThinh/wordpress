@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>oppo &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/oppo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 10:55:10 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>OPPO Reno6 5G</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/oppo-reno6-5g/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/oppo-reno6-5g/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 15:48:17 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=97</guid>
+
+					<description><![CDATA[Tiếp theo phần ra mắt của series Reno 5 thì Oppo lại chuẩn bị trình làng mẫu smartphone mới nhất mang tên Reno6. Thiết kế sang trọng cấu hình mạnh mẽ với chipset Dimensity 900, OPPO Reno6 5G sẽ mang đến cho người dùng trải nghiệm mượt mà. Thiết kế thời trang, sang trọng đầy ấn tượng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Tiếp theo phần ra mắt của series Reno 5 thì Oppo lại chuẩn bị trình làng mẫu smartphone mới nhất mang tên Reno6. Thiết kế sang trọng cấu hình mạnh mẽ với chipset Dimensity 900, <strong>OPPO Reno6 5G</strong> sẽ mang đến cho người dùng trải nghiệm mượt mà.</p>
+<h3><strong>Thiết kế thời trang, sang trọng đầy ấn tượng</strong></h3>
+<p>Điện thoại OPPO Reno6 5G là sản phẩm của công nghệ thiết kế vô cùng hoàn hảo và ấn tượng. Các góc cạnh của máy được bo cong mềm mại, uyển chuyển mang đến sự mượt mà và tinh tế. Kích thước máy nhỏ gọn dễ dàng cầm nắm trong quá trình sử dụng.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/oppo-reno6-5g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

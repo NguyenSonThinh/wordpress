@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Samsung Galaxy Watch &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/samsung-galaxy-watch/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:57:34 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Đồng hồ thông minh Samsung Galaxy Watch 3 viền thép 41mm</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/dong-ho-thong-minh-samsung-galaxy-watch-3-vien-thep-41mm/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/dong-ho-thong-minh-samsung-galaxy-watch-3-vien-thep-41mm/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:57:34 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=179</guid>
+
+					<description><![CDATA[Đồng hồ Samsung Galaxy Watch 3 41mm &#8211; Sang trọng và tinh tế Một trong những món phụ kiện được phái nữ ưa chuộng chính là đồng hồ Samsung Galaxy Watch 3 41mm &#8211; sản phẩm smartwatch sở hữu ngoại hình sang trọng lẫn trang bị đầy đủ tính năng theo dõi sức khỏe nhằm mang đến [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Đồng hồ Samsung Galaxy Watch 3 41mm &#8211; Sang trọng và tinh tế</strong></h2>
+<p><em>Một trong những món phụ kiện được phái nữ ưa chuộng chính là </em><em><strong>đồng hồ Samsung Galaxy Watch 3 41mm</strong> &#8211; sản phẩm smartwatch sở hữu ngoại hình sang trọng lẫn trang bị đầy đủ tính năng theo dõi sức khỏe nhằm mang đến cuộc sống năng động cho các chị em.</em></p>
+<h3><strong>Màn hình 41mm, mặt kính Gorilla Glass Dx+ cao cấp</strong></h3>
+<p>Samsung Galaxy Watch 3 41mm được thiết kế theo phong cách thanh lịch và sang trọng, với màn hình phủ kính Gorilla Glass Dx+ cường lực cao cấp giúp gia tăng độ bền. Đặc biệt, với phiên bản màu Hồng quyến rũ, Galaxy Watch 3 41mm sẽ là chiếc đồng hồ thông minh hoàn hảo cho phái nữ.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/dong-ho-thong-minh-samsung-galaxy-watch-3-vien-thep-41mm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Xiaomi Mi Pad &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/xiaomi-mi-pad/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:46:57 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Xiaomi Mi Pad 5</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/xiaomi-mi-pad-5/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/xiaomi-mi-pad-5/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:46:57 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=163</guid>
+
+					<description><![CDATA[Máy tính bảng Xiaomi Mi Pad 5 – Mỏng nhẹ, hỗ trợ bút cảm ứng Mới đây, hãng điện tử Trung Quốc Xiaomi vừa cho ra mắt bộ đôi máy tính bảng Mi Pad 5 và Mi Pad 5 Pro. Trong đó, phiên bản &#8220;không Pro&#8221; có nhiều cải tiến về thiết kế và cấu hình so với [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Máy tính bảng Xiaomi Mi Pad 5 – Mỏng nhẹ, hỗ trợ bút cảm ứng</strong></h2>
+<p>Mới đây, hãng điện tử Trung Quốc Xiaomi vừa cho ra mắt bộ đôi máy tính bảng <strong>Mi Pad 5</strong> và Mi Pad 5 Pro. Trong đó, phiên bản &#8220;không Pro&#8221; có nhiều cải tiến về thiết kế và cấu hình so với phiên bản tiền nhiệm.</p>
+<h3><strong>Thiết kế vuông vức mỏng nhẹ, nhiều màu sắc lựa chọn</strong></h3>
+<p>Xiaomi Mi Pad 5 là mẫu máy tính bảng siêu mỏng nhẹ khi độ dày chưa đến 7mm và trọng lượng chỉ hơn 500g. Tablet với phần khung viền được hoàn thiện vuông vức mang lại vẻ sang trọng nhưng vẫn có khả năng cầm nắm tốt. Máy sẽ có ba phiên bản màu sắc khác nhau cho người dùng lựa chọn là đen, trắng và xanh lá cây.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/xiaomi-mi-pad-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

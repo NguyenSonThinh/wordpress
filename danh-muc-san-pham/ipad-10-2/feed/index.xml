@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>iPad 10.2 &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ipad-10-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:32:44 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>iPad 10.2 2021 WiFi 64GB &#124; Chính hãng Apple Việt Nam</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/ipad-10-2-2021-wifi-64gb-chinh-hang-apple-viet-nam/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/ipad-10-2-2021-wifi-64gb-chinh-hang-apple-viet-nam/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:32:44 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=148</guid>
+
+					<description><![CDATA[iPad Gen 9 (10.2 inch) 2021 &#8211; Hiệu năng đỉnh với mức giá sinh viên Sau sự thành công của chiếc iPad Gen 8 cùng với iPad Air 4, Apple lại tiếp tục rục rịch cho ra mắt thêm sản phẩm mới. Thiết bị mang tên iPad Gen 9, kế thừa đặc trưng của dòng nhưng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>iPad Gen 9 (10.2 inch) 2021 &#8211; Hiệu năng đỉnh với mức giá sinh viên</strong></h2>
+<p>Sau sự thành công của chiếc iPad Gen 8 cùng với iPad Air 4, Apple lại tiếp tục rục rịch cho ra mắt thêm sản phẩm mới. Thiết bị mang tên <strong>iPad Gen 9</strong>, kế thừa đặc trưng của dòng nhưng được nâng cấp thêm về hiệu năng cũng như camera.</p>
+<h3><strong>Thiết kế mỏng nhẹ, màn hình kích thước 10.5 inches</strong></h3>
+<p>iPad 10.2 inch 2021 vẫn mang thiết kế đặc trưng bởi sự mỏng và nhẹ, giúp người dùng dễ thao tác, cầm nắm trong hàng giờ liền mà không hề cảm thấy bị mỏi hay khó chịu. Thiết kế nguyên khối đã là nét đặc trưng của dòng sản phẩm iPad giúp mang lại vẻ sang trọng khi sử dụng tên tay.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/ipad-10-2-2021-wifi-64gb-chinh-hang-apple-viet-nam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

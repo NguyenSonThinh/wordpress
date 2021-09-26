@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Huawei Band &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/huawei-band/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 12:05:50 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Vòng đeo tay thông minh Huawei Band 6</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/vong-deo-tay-thong-minh-huawei-band-6/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/vong-deo-tay-thong-minh-huawei-band-6/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 12:05:49 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=191</guid>
+
+					<description><![CDATA[Huawei Band 6 – Vòng đeo tay ấn tượng bởi thiết kế, đầy đủ tính năng Khác với đồng hồ thông minh, vòng đeo tay thông minh được giới hạn với những tính năng cần thiết. Tuy nhiên với những người dùng cơ bản không quá nặng về việc kết nối với smartphone thì đồng hồ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Huawei Band 6 – Vòng đeo tay ấn tượng bởi thiết kế, đầy đủ tính năng</strong></h2>
+<p>Khác với đồng hồ thông minh, vòng đeo tay thông minh được giới hạn với những tính năng cần thiết. Tuy nhiên với những người dùng cơ bản không quá nặng về việc kết nối với smartphone thì<strong> đồng hồ Huawei Band 6</strong> chính là ứng cử viên mà bạn đang tìm kiếm.</p>
+<h3><strong>Thiết kế năng động, màn hình 1.47 inches, hiển thị màu</strong></h3>
+<p><a href="https://cellphones.com.vn/do-choi-cong-nghe/huawei.html" target="_blank" rel="noopener">Vòng đeo tay thông minh Huawei</a> Band 6 sở hữu thiết kế năng động và khỏe khoắn, tương tự như trên những người tiền nhiệm Huawei Fit và Honor ES. Đặc điệt là phần vòng day đồng hồ được làm từ silicon mềm dẻo hướng đến sự trải nghiệm đeo tay mang cảm giác êm ái.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/vong-deo-tay-thong-minh-huawei-band-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

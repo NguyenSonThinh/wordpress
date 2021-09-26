@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>xiaomi &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/xiaomi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 10:55:32 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Xiaomi Redmi Note 10 Pro 6GB</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/xiaomi-redmi-note-10-pro-6gb/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/xiaomi-redmi-note-10-pro-6gb/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 15:43:24 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=90</guid>
+
+					<description><![CDATA[Nâng tầm nhiếp ảnh &#8211; Cụm camera 108MP chất lượng cao, chụp ảnh chi tiết và sắc nét Tốc độ bức phá &#8211; Snapdragon 732G 8 nhân, chuẩn bộ nhớ tốc độ cao UFS 2.2 Màn hình vượt trội, phản hồi tức thì &#8211; AMOLED 6.67 inch, tần số quét 120Hz, độ sáng tối đa [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="box-outstanding-features">
+<div class="box-content">
+<ul>
+<li>Nâng tầm nhiếp ảnh &#8211; Cụm camera 108MP chất lượng cao, chụp ảnh chi tiết và sắc nét</li>
+<li>Tốc độ bức phá &#8211; Snapdragon 732G 8 nhân, chuẩn bộ nhớ tốc độ cao UFS 2.2</li>
+<li>Màn hình vượt trội, phản hồi tức thì &#8211; AMOLED 6.67 inch, tần số quét 120Hz, độ sáng tối đa 1200 nit, hỗ trợ DCI- P3, HDR10</li>
+<li>Không lo lắng về pin &#8211; Pin lớn 5020mAh, sạc nhanh Mi Turbo 33W ấn tượng</li>
+</ul>
+</div>
+</div>
+<div class="blog-content">
+<p><a href="https://cellphones.com.vn/xiaomi-redmi-note-10-pro.html">Điện thoại Xiaomi Redmi Note 10 Pro</a> phiên bản 6GB Ram dự kiến sẽ được ra mắt trong tháng 3 này, hứa hẹn sẽ làm phân khúc smartphone tầm trung giá rẻ trở nên sôi động hơn.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/xiaomi-redmi-note-10-pro-6gb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

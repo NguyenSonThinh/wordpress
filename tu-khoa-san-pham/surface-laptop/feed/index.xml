@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Surface Laptop &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/surface-laptop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 10:54:06 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Surface Laptop Go Core i5 / 8GB / 128 GB / 12.4 inch Chính Hãng</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/surface-laptop-go-core-i5-8gb-128-gb-12-4-inch-chinh-hang/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/surface-laptop-go-core-i5-8gb-128-gb-12-4-inch-chinh-hang/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 16:34:18 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=131</guid>
+
+					<description><![CDATA[Surface Laptop Go – Laptop nhỏ gọn cho người dùng Hiện nay các dòng laptop mỏng nhẹ ngày càng được ưu chuộng bởi sự tiện lợi khi di chuyển. Với dòng laptop Surface thì Surface Laptop Go là một trong những đại diện cho dòng laptop nhỏ gọn, hiệu năng cao. Thiết kế siêu nhẹ, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Surface Laptop Go – Laptop nhỏ gọn cho người dùng</strong></h2>
+<p>Hiện nay các dòng laptop mỏng nhẹ ngày càng được ưu chuộng bởi sự tiện lợi khi di chuyển. Với dòng laptop Surface thì Surface Laptop Go là một trong những đại diện cho dòng laptop nhỏ gọn, hiệu năng cao.</p>
+<h3><strong>Thiết kế siêu nhẹ, sang trọng</strong></h3>
+<p><strong><a href="https://cellphones.com.vn/laptop/surface.html" target="_blank" rel="noopener">Surface Laptop Go</a> </strong>sở hữu thiết kế gọn gàng với trọng lượng chỉ hơn 1kg. Với trọng lượng này, laptop có tính di động cao. Về vẻ bên ngoài, laptop được hoàn thiện từ vật liệu cao cấp mang để một vẻ đẹp sang trọng. Mặt lưng là logo windows nổi bật.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/surface-laptop-go-core-i5-8gb-128-gb-12-4-inch-chinh-hang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

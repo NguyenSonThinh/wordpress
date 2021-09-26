@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Giảm giá tháng 9 &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/giam-gia-thang-9/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:14:12 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Giảm giá tháng 9</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/giam-gia-thang-9/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/giam-gia-thang-9/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:14:11 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=139</guid>
+
+					<description><![CDATA[Mở màn là mẫu Surface Laptop Go từ Microsoft với thiết kế cao cấp mỏng nhẹ, cấu hình vừa đủ dùng cho các bạn học sinh cấp 2, cấp 3, ngoài ra còn có màn hình cảm ứng và cảm biến vân tay dùng khá tiện. Giá cao hơn chút là mẫu HP Envy 13 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Mở màn là mẫu Surface Laptop Go từ Microsoft với thiết kế cao cấp mỏng nhẹ, cấu hình vừa đủ dùng cho các bạn học sinh cấp 2, cấp 3, ngoài ra còn có màn hình cảm ứng và cảm biến vân tay dùng khá tiện.</p>
+<div class="VCSortableInPreviewMode noCaption">Giá cao hơn chút là mẫu HP Envy 13 dạo này đang được nhiều bạn trẻ tìm mua vì thiết kế rất sang chảnh, mỏng nhẹ dễ mang theo mà giá rất vừa túi tiền so với cấu hình.</div>
+<div>Nếu muốn trải nghiệm laptop xoay gập 360 độ kèm màn hình cảm ứng và bút stylus, bạn nên cân nhắc mẫu Lenovo Yoga 7 dưới đây, vừa có cấu hình mạnh mẽ với Core i7 11th, thiết kế mỏng nhẹ, sạc nhanh&#8230; mà giá chỉ chưa đến 27 triệu đồng.</div>
+<div>Chuyển sang phân khúc laptop cao cấp để chơi game tầm giá 30 triệu đồng có Acer Predator PH315 54 78W5 cấu hình mạnh mẽ, tích hợp card đồ họa rời, màn hình 144Hz chất lượng cao và nhiều thứ hay ho khác.</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/giam-gia-thang-9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

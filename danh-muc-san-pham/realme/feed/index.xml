@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Realme &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/realme/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 10:50:40 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Realme 7i</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/realme-7i/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/realme-7i/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 16:03:42 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=108</guid>
+
+					<description><![CDATA[Lướt web siêu mượt, màn hình siêu nét &#8211; Màn hình FHD+, tần số quét 90Hz, tỉ lệ hiển thị 90% Sạc đầy nhanh chóng, không lo hết pin &#8211; Pin khủng 5000mAh, sạc nhanh 18W Khám phá thế giới ở nhiều góc độ &#8211; Bộ 4 camera 64MP AI, bộ lọc chụp đêm, chống [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="box-outstanding-features">
+<div class="box-content">
+<ul>
+<li>Lướt web siêu mượt, màn hình siêu nét &#8211; Màn hình FHD+, tần số quét 90Hz, tỉ lệ hiển thị 90%</li>
+<li>Sạc đầy nhanh chóng, không lo hết pin &#8211; Pin khủng 5000mAh, sạc nhanh 18W</li>
+<li>Khám phá thế giới ở nhiều góc độ &#8211; Bộ 4 camera 64MP AI, bộ lọc chụp đêm, chống rung quay video</li>
+<li>Tối ưu chơi game, tiêu thụ pin thấp &#8211; Snapdragon 662 tám nhân, xung nhịp lên đến 2.0GHz</li>
+</ul>
+</div>
+</div>
+<div class="blog-content">
+<h2><strong>Điện thoại Realme 7i &#8211; Kỷ nguyên mới trong phân khúc cận cao cấp</strong></h2>
+<p>Realme có thể nói là một trong những thương hiệu hàng đầu hiện nay về sản xuất điện thoại. Số lượng sản phẩm nhiều và đa dạng phân khúc, lần này Realme mang đến một kỷ nguyên mới về điện thoại trong phân khúc cận cao cấp với cái tên <strong>Realme 7i</strong>. Đây sẽ là chiếc <a title="Điện thoại Realme chính hãng" href="https://cellphones.com.vn/mobile/realme.html" target="_self" rel="noopener">điện thoại Realme</a> đáng được cân nhắc lựa chọn nhất trong phân khúc tầm giá mà bạn đang phân vân.</p>
+<h3><strong>Thiết kế sang trọng với nhựa cao cấp, màn hình lớn 6.5 inch</strong></h3>
+<p>Là một chiếc điện thoại cận cao cấp nhưng Realme vẫn được hãng trang bị một vẻ ngoài sang trọng bắt mặt không kém những chiếc điện thoại đắt tiền. Với bộ khung được đúc nguyên khối từ nhựa và CNC chính xác đến từng chi tiết, khi cầm nắm điện thoại mang đến một cảm giác chắc chắn.</p>
+<p>Ngoài ra mặt lưng cũng được thiết kế bằng nhựa cao cấp được mài bóng sáng và hỗ trợ trang bị nhiều màu sắc cho người dùng dễ dàng lựa chọn.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/realme-7i/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

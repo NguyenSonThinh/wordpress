@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Nokia &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/nokia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 10:51:05 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Nokia 2.4</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/nokia-2-4/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/nokia-2-4/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 16:08:54 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=112</guid>
+
+					<description><![CDATA[Hiển thị nội dung đã mắt- Màn hình lớn 6.5 inch, độ phân giải DH+ rõ nét Chụp ảnh chi tiết &#8211; Camera kép thông minh, hỗ trợ chế độ chụp đêm Sử dụng thả ga không lo hết pin &#8211; Pin 4500mAh, công nghệ pin thích ứng hỗ trợ bởi AI Hiệu năng ổn [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="box-outstanding-features">
+<div class="box-content">
+<ul>
+<li>Hiển thị nội dung đã mắt- Màn hình lớn 6.5 inch, độ phân giải DH+ rõ nét</li>
+<li>Chụp ảnh chi tiết &#8211; Camera kép thông minh, hỗ trợ chế độ chụp đêm</li>
+<li>Sử dụng thả ga không lo hết pin &#8211; Pin 4500mAh, công nghệ pin thích ứng hỗ trợ bởi AI</li>
+<li>Hiệu năng ổn định, giao diện mượt mà &#8211; Helio P22 vận hành mạnh mẽ, Android One cập nhật nhanh chóng, trải nghiệm nhẹ nhàng</li>
+</ul>
+</div>
+</div>
+<div class="blog-content">
+<h2><strong>Điện thoại </strong><strong>Nokia 2.4 – </strong><strong>Điện thoại giá rẻ nhiều màu sắc</strong></h2>
+<p>Là một trong những sản phẩm nổi bật trong phân khúc tầm trung so với các sản phẩm khác. <strong>Nokia 2.4</strong> mang đến 1 cách nhìn hoàn toàn mới cho người dùng cả về ngoại hình lẫn chất lượng bên trong. Với phân khúc tầm trung giá rẻ chiếc Nokia 2.4 sẽ mang lại nhiều tiện ích và chất lượng sử dụng cao cấp dành cho bạn. Hãy cùng CellphoneS tìm hiểu xem chiếc <a title="Điện thoại Nokia chính hãng" href="https://cellphones.com.vn/mobile/nokia.html" target="_self" rel="noopener">điện thoại Nokia</a> 2.4 này đang sở hữu những gì bên trong nhé!</p>
+<h3><strong>Thiết kế 3D kết cấu nano kích thước vừa vặn dễ cầm, nhiều màu sắc lựa chọn</strong></h3>
+<p>So với các phiên bản Nokia thế hệ trước chiếc Nokia 2.4 đã được cải thiện đáng kể về vẻ bề ngoài của thiết bị. Cụ thể với thiết kế 3D kết cấu nano các đường nét và góc cạnh của điện thoại tạo nên một vẻ ngoài hoàn toàn mới và sang trọng khi nhìn từ bên ngoài vào.</p>
+<p>Với kích thước vừa vặn dễ cầm chỉ 165,85 mm x 76,3mm Nokia 2.4 mang đến một kích thước chuẩn dễ cầm nắm hay cho vào bên trong túi quần của người dùng mà không bị vướng.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/nokia-2-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

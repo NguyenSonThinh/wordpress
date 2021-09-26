@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>OPPO Watch &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/oppo-watch/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 12:07:43 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Đồng hồ thông minh OPPO Watch 46mm</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/dong-ho-thong-minh-oppo-watch-46mm/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/dong-ho-thong-minh-oppo-watch-46mm/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 12:07:43 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=194</guid>
+
+					<description><![CDATA[Đồng hồ thông minh OPPO Watch 46mm sở hữu 2 màu vàng, đen tinh tế và đầy sang trọng. Là một trong những dòng đồng hồ thông minh sở hữu mức giá khá tốt cùng nhiều tính năng hỗ trợ người dùng, đây là sản phẩm được bán với giá hấp dẫn tại Cellphones. &#62;&#62; Tham [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://cellphones.com.vn/do-choi-cong-nghe/oppo.html" target="_blank" rel="noopener">Đồng hồ thông minh OPPO</a> Watch 46mm sở hữu 2 màu vàng, đen tinh tế và đầy sang trọng. Là một trong những dòng đồng hồ thông minh sở hữu mức giá khá tốt cùng nhiều tính năng hỗ trợ người dùng, đây là sản phẩm được bán với giá hấp dẫn tại Cellphones.</p>
+<p>&gt;&gt; Tham khảo thêm: <a href="https://cellphones.com.vn/dong-ho-thong-minh-oppo-watch.html" target="_blank" rel="noopener">Đồng hồ thông minh OPPO Watch 41mm</a> thích hợp với những người dùng có tay nhỏ hơn.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/dong-ho-thong-minh-oppo-watch-46mm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

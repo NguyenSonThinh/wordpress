@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Xiaomi Mi Band &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/xiaomi-mi-band/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 12:01:46 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Vòng đeo tay thông minh Xiaomi Mi Band 6</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/vong-deo-tay-thong-minh-xiaomi-mi-band-6/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/vong-deo-tay-thong-minh-xiaomi-mi-band-6/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 12:01:45 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=185</guid>
+
+					<description><![CDATA[Sau sự thành công của Xiaomi Mi Band 5, người tiêu dùng càng mong đợi hơn về sự ra mắt cũng như những nâng cấp trên Mi Band 6 lần này. Cùng tìm hiểu xem liệu có điểm gì khác biệt nhé!]]></description>
+										<content:encoded><![CDATA[<p>Sau sự thành công của Xiaomi Mi Band 5, người tiêu dùng càng mong đợi hơn về sự ra mắt cũng như những nâng cấp trên Mi Band 6 lần này. Cùng tìm hiểu xem liệu có điểm gì khác biệt nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/vong-deo-tay-thong-minh-xiaomi-mi-band-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

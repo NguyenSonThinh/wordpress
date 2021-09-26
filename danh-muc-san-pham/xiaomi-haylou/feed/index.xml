@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Xiaomi Haylou &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/xiaomi-haylou/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 13:39:24 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Đồng hồ thông minh Haylou LS05</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/dong-ho-thong-minh-haylou-ls05/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/dong-ho-thong-minh-haylou-ls05/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 12:09:51 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=197</guid>
+
+					<description><![CDATA[Xiaomi Haylou LS05 – Đồng hồ hỗ trợ theo dõi sức khỏe, 12 bộ môn thể thao Đồng hồ xiaomi ngày càng được người dùng quan tâm khi thiết bị sở hữu nhiều tính năng thông minh như theo dõi nhịp tim, hỗ trợ tập luyện thể thao, đồng hồ thông minh Haylou LS05 cũng không ngoại [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Xiaomi Haylou LS05</strong><strong> – Đồng hồ hỗ trợ theo dõi sức khỏe, 12 bộ môn thể thao</strong></h2>
+<p><a href="https://cellphones.com.vn/do-choi-cong-nghe/xiaomi.html" target="_blank" rel="noopener">Đồng hồ xiaomi</a> ngày càng được người dùng quan tâm khi thiết bị sở hữu nhiều tính năng thông minh như theo dõi nhịp tim, hỗ trợ tập luyện thể thao, đồng hồ thông minh Haylou LS05 cũng không ngoại lệ.</p>
+<h3><strong>Màn hình TFT HD 1.28 inch, dây deo silicon mềm mại</strong></h3>
+<p>Đồng hồ Haylou LS05 được thiết kế với mặt tròn, thân kim loại chắc chắn. Đồng hồ khá nhỏ gọn với trọng lượng chỉ 54g.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/dong-ho-thong-minh-haylou-ls05/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

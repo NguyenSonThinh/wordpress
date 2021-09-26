@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Laptop Lenovo &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/laptop-lenovo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 10:53:40 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Laptop Lenovo Gaming Legion 5 15ARH05 82B500GUVN</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/laptop-lenovo-gaming-legion-5-15arh05-82b500guvn/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/laptop-lenovo-gaming-legion-5-15arh05-82b500guvn/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 16:31:35 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=128</guid>
+
+					<description><![CDATA[Laptop Lenovo Legion 5 15ARH05 82B500GUVN mang đến một phong cách thiết kế mạnh mẽ, hiện đại cùng màn hình có chất lượng hiển thị tốt. Luôn tạo cảm giác vô cùng sống động cho người sử dụng Cùng khám phá thêm mẫu laptop Lenovo Gaming L340-15IRH 81LK01J3VN, dòng laptop gaming mạnh mẽ, đa chức năng]]></description>
+										<content:encoded><![CDATA[<p><strong>Laptop <a href="https://cellphones.com.vn/laptop/lenovo/gaming.html" target="_blank" rel="noopener">Lenovo Legion</a> 5 15ARH05 82B500GUVN</strong> mang đến một phong cách thiết kế mạnh mẽ, hiện đại cùng màn hình có chất lượng hiển thị tốt. Luôn tạo cảm giác vô cùng sống động cho người sử dụng<br />
+Cùng khám phá thêm mẫu <a href="https://cellphones.com.vn/laptop-lenovo-ideapad-l340-gaming-i5-ssd-512gb-vga-4gb.html" target="_blank" rel="noopener">laptop Lenovo Gaming L340-15IRH 81LK01J3VN</a>, dòng laptop gaming mạnh mẽ, đa chức năng</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/laptop-lenovo-gaming-legion-5-15arh05-82b500guvn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

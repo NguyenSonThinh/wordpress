@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Samsung Tab &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/samsung-tab/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 11:43:17 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Samsung Galaxy Tab S7 Plus</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/samsung-galaxy-tab-s7-plus/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/samsung-galaxy-tab-s7-plus/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 11:43:17 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=157</guid>
+
+					<description><![CDATA[Đa nhiệm, chơi game mượt mà &#8211; Vi xử lý Snapdragon 865+ mạnh mẽ, RAM 6GB Hiển thị rực rỡ, thao tác mượt mà, giải trí đỉnh cao &#8211; Màn hình SuperAMOLED 2K, tần số quét 120Hz, hệ thống 4 loa cao cấp Soạn thảo, chỉnh sửa ảnh dễ dàng &#8211; Bút Spen thế hệ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="box-outstanding-features">
+<div class="box-content">
+<ul>
+<li>Đa nhiệm, chơi game mượt mà &#8211; Vi xử lý Snapdragon 865+ mạnh mẽ, RAM 6GB</li>
+<li>Hiển thị rực rỡ, thao tác mượt mà, giải trí đỉnh cao &#8211; Màn hình SuperAMOLED 2K, tần số quét 120Hz, hệ thống 4 loa cao cấp</li>
+<li>Soạn thảo, chỉnh sửa ảnh dễ dàng &#8211; Bút Spen thế hệ mới</li>
+<li>Sử dụng cả ngày dài &#8211; Pin dung lượng khủng 10090mAh, sạc nhanh siêu tốc 45W</li>
+<li>Lưu giữ khoảnh khắc gia đình &#8211; Camera kép 13MP + 5MP</li>
+</ul>
+</div>
+</div>
+<div class="blog-content">
+<h2>Samsung Galaxy Tab S7+ : Màn hình rộng sắc nét, pin khủng 10.090mAh</h2>
+<p>Máy tính bảng giờ đây đã trở thành một sản phẩm công nghệ quen thuộc và quan trọng đối với rất nhiều người. Ngày qua ngày, người dùng đều mong muốn nhu cầu sử dụng của họ sẽ tốt hơn và đòi hỏi cao hơn về một chiếc tablet Samsung. Thấu hiểu điều đó, tập đoàn Samsung đã cho ra mắt <a href="https://cellphones.com.vn/samsung-galaxy-tab-s7.html" target="_blank" rel="noopener">máy tính bảng Samsung Galaxy Tab S7</a> và <strong>Tab S7 Plus</strong>. Đây được xem là chiếc tablet được trang bị những tính năng hiện đại bậc nhất cùng thời lượng pin cực khủng, giúp giải quyết nỗi lo hụt pin cho cả ngày sử dụng.</p>
+<h3>Thiết kế cứng cáp và sang trọng cùng màn hình sAMOLED 12.4 inch</h3>
+<p>Chiếc Samsung Tab S7 Plus là sản phẩm rất được Samsung ưu ái, sở hữu thiết kế cứng cáp với chất liệu kim loại sáng bóng và các góc được bo cong một cách hoàn hảo. Mang đến cho sản phẩm không chỉ là sự cứng cáp, mà được hòa hợp tuyệt vời cùng những đường nét mềm mại.</p>
+<p>Tham khảo thêm: <a href="https://cellphones.com.vn/samsung-galaxy-tab-s7-lite.html">Samsung Galaxy Tab S7 Lite</a></p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/samsung-galaxy-tab-s7-plus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

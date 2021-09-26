@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Macbook Pro &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/macbook-pro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyensonthinh.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 10:51:59 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Apple MacBook Pro 13 Touch Bar M1 256GB 2020 I Chính hãng Apple Việt Nam</title>
+		<link>https://nguyensonthinh.github.io/wordpress/san-pham/apple-macbook-pro-13-touch-bar-m1-256gb-2020-i-chinh-hang-apple-viet-nam/</link>
+					<comments>https://nguyensonthinh.github.io/wordpress/san-pham/apple-macbook-pro-13-touch-bar-m1-256gb-2020-i-chinh-hang-apple-viet-nam/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyensonthinh]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 16:17:43 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyensonthinh.github.io/wordpress/?post_type=product&#038;p=117</guid>
+
+					<description><![CDATA[Macbook Pro M1 2020 – Hiệu năng vượt trội với chip M1 mạnh mẽ Máy tính bảng Macbook Pro M1 thế hệ mới vừa ra mắt được trang bị vi xử lý M1 do chính Apple tự thiết kế. Hứa hẹn mang đến hiệu năng cực kì mạnh mẽ, thời gian sử dụng cực kì ấn tượng. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>Macbook Pro M1 2020 – Hiệu năng vượt trội với chip M1 mạnh mẽ</strong></h2>
+<p>Máy tính bảng<strong> Macbook Pro M1</strong> thế hệ mới vừa ra mắt được trang bị vi xử lý M1 do chính Apple tự thiết kế. Hứa hẹn mang đến hiệu năng cực kì mạnh mẽ, thời gian sử dụng cực kì ấn tượng.</p>
+<h3><strong>Thiết kế trau chuốt từng đường nét, trải nghiệm hình ảnh sắc nét với màn hình Retina</strong></h3>
+<p>Vẫn kế thừa thiết kế từ người tiềm nhiệm trước đó của mình, <strong><a href="https://cellphones.com.vn/laptop/mac/macbook-pro.html" target="_blank" rel="noopener">Macbook Pro 2020</a> M1</strong> vẫn sở hữu thiết kế nhôm nguyên khối, các đường viền trên máy được cắt CNC tỉ mỉ, sắc xảo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyensonthinh.github.io/wordpress/san-pham/apple-macbook-pro-13-touch-bar-m1-256gb-2020-i-chinh-hang-apple-viet-nam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
